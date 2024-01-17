@@ -4,7 +4,7 @@ __TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION__
 
 1 \- Definitions
 
-тАЬBostonGeneт”shall mean BostonGene Corporation and its affiliates\. 
+“BostonGene” shall mean BostonGene Corporation and its affiliates\. 
 
 "Derivative Software" shall mean any work, whether in Source or Object Form, that is based on \(or derived from\) the Software and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship\. 
 
@@ -12,11 +12,11 @@ __TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION__
 
 "Licensor" shall mean the copyright owner or any entity or entities authorized by the copyright owner that is granting the License\.
 
-"Object Formт”shall mean any form resulting from mechanical transformation or translation of a Source Form, including but not limited to compiled object code, generated documentation, and conversions to other media types\.
+"Object Form” shall mean any form resulting from mechanical transformation or translation of a Source Form, including but not limited to compiled object code, generated documentation, and conversions to other media types\.
 
-"Source Formт”shall mean software source code, documentation source, configuration files, and data\.
+"Source Form” shall mean software source code, documentation source, configuration files, and data\.
 
-тАЬSoftwareт”\- shall mean the work of authorship, whether in Source or Object Form, made available under the License\.
+“Software” \- shall mean the work of authorship, whether in Source or Object Form, made available under the License\.
 
 "You" \(or "Your"\) shall mean an individual or any entity or entities exercising permissions granted by this License\.
 
@@ -38,7 +38,7 @@ b \- Any other recipient of the Software or Derivative Software must receive a c
 
 c \- Any modified files must carry prominent notices stating that You changed the files\.
 
-d \- The copyright of BostonGene \(as тАЬCopyright BostonGene CorporationтАЭ\), copyrights of any other Licensors, and copyrights of any incorporated third party software as described in the associated documentation must be acknowledged, and any such copyrights must be part of a NOTICE file to be included with any reproduction or distribution of the Software or Derivative Software\.
+d \- The copyright of BostonGene \(as “Copyright BostonGene Corporation”\), copyrights of any other Licensors, and copyrights of any incorporated third party software as described in the associated documentation must be acknowledged, and any such copyrights must be part of a NOTICE file to be included with any reproduction or distribution of the Software or Derivative Software\.
 
 e \- You may add Your own copyright statement to Your modifications\.
 
@@ -54,7 +54,7 @@ b \- You are not required to accept this License, since you have not signed it\.
 
 THE SOFTWARE IS PROVIDED BY LICENSOR "AS IS", WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON\-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE\. ALL SUCH WARRANTIES ARE DISCLAIMED\. YOU ARE SOLELY RESPONSIBLE FOR DETERMINING THE APPROPRIATENESS OF USING OR REDISTRIBUTING THE SOFTWARE AND ASSUME ANY RISKS ASSOCIATED WITH YOUR EXERCISE OF PERMISSIONS UNDER THIS LICENSE\.
 
-IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES \(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION\) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT \(INCLUDING NEGLIGENCE OR OTHERWISE\) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES\. LICENSEE AGREES TO DEFEND, INDEMNIFY AND HOLD HARMLESS LICENSOR FOR ANY CLAIMS ARISING FROM LICENSEEтАЩS USE OF THE SOFTWARE TO THE FULLEST EXTENT PERMITTED BY LAW\.
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES \(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION\) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT \(INCLUDING NEGLIGENCE OR OTHERWISE\) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES\. LICENSEE AGREES TO DEFEND, INDEMNIFY AND HOLD HARMLESS LICENSOR FOR ANY CLAIMS ARISING FROM LICENSEE“АЩS USE OF THE SOFTWARE TO THE FULLEST EXTENT PERMITTED BY LAW\.
 
 END OF TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION  
   
