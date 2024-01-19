@@ -25,7 +25,7 @@ Data to reproduce the figures is avaliable in the [data](data) folder.
 
 ### Data files
 
-* [data/NBM_dataset.h5ad](data/NBM_dataset.h5ad) - AnnData object containing the data used to generate the figures.
+* [data/NBM_dataset.h5ad](data/NBM_dataset.h5ad) - AnnData object containing the data used to generate the figures. In order to clone the repository, you will need to setup git lfs. See [here](https://git-lfs.github.com/) for instructions.
 * [data/clinical_annotation.csv](data/clinical_annotation.csv) - Clinical annotation for the samples in the AnnData object.
 * [data/platelets.xlsx](data/platelets.xlsx) - Platelet counts for the samples in the AnnData object.
 * [data/Values_for_Panel_1F_correlations.xlsx](data/Values_for_Panel_1F_correlations.xlsx) - Values for the correlations in Figure 1F.
