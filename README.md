@@ -25,13 +25,13 @@ Data to reproduce the figures is avaliable in associated [Zenodo project data](h
 
 ### Data files
 
-* [data/NBM_dataset.h5ad](data/NBM_dataset.h5ad) - AnnData object containing the data used to generate the figures. To work with the dataset, download NBM_dataset.h5ad from Zenodo an put it into the data folder.
+* [data/NBM_dataset.h5ad](https://zenodo.org/records/10677544/files/NBM_dataset.h5ad) - AnnData object containing the data used to generate the figures. To work with the dataset, download NBM_dataset.h5ad from Zenodo an put it into the data folder.
 * [data/clinical_annotation.csv](data/clinical_annotation.csv) - Clinical annotation for the samples in the AnnData object.
 * [data/platelets.xlsx](data/platelets.xlsx) - Platelet counts for the samples in the AnnData object.
 * [data/Values_for_Panel_1F_correlations.xlsx](data/Values_for_Panel_1F_correlations.xlsx) - Values for the correlations in Figure 1F.
 
 Main AnnData contains graph neural network embeddings for community detection stored in X and mean expression data in obs with suffix '_mean_intensity'. 
-
+https://zenodo.org/records/10677544/files/NBM_dataset.h5ad?download=1
 ## Notebooks
 
 The notebooks used to generate the figures are in the [notebooks](notebooks) folder. The notebooks are numbered in the order they should be run to reproduce the figures.
