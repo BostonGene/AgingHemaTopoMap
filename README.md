@@ -1,6 +1,6 @@
 # AgingHemaTopoMap
 
-This repository contains the code used to generate the figures in the paper ["Spatial mapping of human hematopoiesis at single-cell resolution reveals aging-associated topographic remodeling".](https://doi.org/10.1182/blood.2023021280).
+This repository contains the code used to generate the figures in the paper ["Spatial mapping of human hematopoiesis at single-cell resolution reveals aging-associated topographic remodeling"](https://doi.org/10.1182/blood.2023021280).
 
 The code is written in python and uses the following packages:
 * [numpy](https://numpy.org/)
