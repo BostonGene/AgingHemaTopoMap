@@ -31,7 +31,7 @@ Data to reproduce the figures is avaliable in associated [Zenodo project data](h
 * [data/Values_for_Panel_1F_correlations.xlsx](data/Values_for_Panel_1F_correlations.xlsx) - Values for the correlations in Figure 1F.
 
 Main AnnData contains graph neural network embeddings for community detection stored in X and mean expression data in obs with suffix '_mean_intensity'. 
-https://zenodo.org/records/10677544/files/NBM_dataset.h5ad?download=1
+
 ## Notebooks
 
 The notebooks used to generate the figures are in the [notebooks](notebooks) folder. The notebooks are numbered in the order they should be run to reproduce the figures.
